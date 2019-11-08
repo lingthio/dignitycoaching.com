@@ -1,4 +1,4 @@
-remote_theme: barryclark/jekyll-now
+remote_theme: vsoch/docsy-jekyll
 title: 
 description: 
 search_enabled: false
