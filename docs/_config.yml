@@ -1,4 +1,7 @@
 remote_theme: jekyll/minima
-title: 
+title: Dignity Leadership Coaching
 description: 
-search_enabled: false
+
+header_pages:
+  - index.md
+  - page2.md
