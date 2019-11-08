@@ -1,4 +1,4 @@
-remote_theme: vsoch/docsy-jekyll
+remote_theme: poole/hyde
 title: 
 description: 
 search_enabled: false
