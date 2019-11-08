@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: jekyll/minima
 title: 
 description: 
 search_enabled: false
