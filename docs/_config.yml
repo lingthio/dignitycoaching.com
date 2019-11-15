@@ -5,3 +5,5 @@ description: Description
 header_pages:
   - index.md
   - page2.md
+
+theme: jekyll-theme-minimal
