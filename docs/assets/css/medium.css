@@ -28751,3 +28751,8 @@ body.is-diagnosticsVisible .diagnostics {
     display: none
   }
 }
+
+div.homeContainer ul {
+    list-style: inside;
+    padding-bottom: 1em;
+}
