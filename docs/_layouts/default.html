@@ -50,12 +50,15 @@
             </div>
             
             <!-- Main menu -->
+            {{ page.name }}
             <div class="metabar-inner u-marginAuto u-maxWidth1032 u-paddingHorizontal20 js-metabarBottom">
               <nav role="navigation" class="metabar-block metabar-block--below u-flexCenter u-overflowHidden u-height50 u-xs-height39">
                 <div class="u-noWrap navBar-scrollFix uiScale uiScale-ui--regular uiScale-caption--regular">
                   <nav class="ds-nav ds-nav--textCaps ds-nav--spacingNone js-navBar">
-                    <li class="ds-nav-item js-tabsItem is-active"><span class="ds-nav-text"><a class="ds-link ds-link--stylePointer"   href="index">Home</a></span></li>
-                    <li class="ds-nav-item js-tabsItem"><span class="ds-nav-text"><a class="ds-link ds-link--stylePointer"   href="about">About</a></span></li>
+                    <li class="ds-nav-item js-tabsItem {% if page.name == "index.md" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="index">Home</a></span></li>
+                    <li class="ds-nav-item js-tabsItem  {% if page.name == "about.md" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="about">About</a></span></li>
                   </nav>
                 </div>
               </nav>
