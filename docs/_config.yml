@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
 title: Dignity Leadership Coaching
 description: Description
 
@@ -6,4 +6,3 @@ header_pages:
   - index.md
   - page2.md
 
-theme: jekyll-theme-minimal
