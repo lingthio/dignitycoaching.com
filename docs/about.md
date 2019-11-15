@@ -6,8 +6,8 @@ Ling has been trained at:
 
 * Matrix Leadership Institute (organizational development and inclusion),
 * Hakomi Institute of California (experiential form of psychotherapy),
-* Somatic Experiencing Trauma Institute (experiential form of trauma healing),
-* Stanford and UC Berkeley (interpersonal dynamics),
+* Somatic Experiencing Trauma Institute (experiential form of trauma healing), and
+* Stanford and UC Berkeley (interpersonal dynamics).
 
 He holds an M.S. in Electrical Engineering and Computer Science and played key leadership roles in three successful Silicon Valley software start-ups as Lead Engineer, Software Architect and Co-founder.
 
