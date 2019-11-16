@@ -28752,11 +28752,6 @@ body.is-diagnosticsVisible .diagnostics {
   }
 }
 
-/* Page title font size */
-div.metabar h1 {
-  font-size: 1.5em;
-}
-
 /* Content ULs show bullets */
 div.homeContainer ul {
   list-style: inside;
