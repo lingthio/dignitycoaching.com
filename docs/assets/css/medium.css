@@ -28752,11 +28752,18 @@ body.is-diagnosticsVisible .diagnostics {
   }
 }
 
+/* Page title font size varies with vieport width */
+div.metabar h1 {
+  font-size: 3vw;
+}
+
+/* Content ULs show bullets */
 div.homeContainer ul {
   list-style: inside;
   padding-bottom: 1em;
 }
 
+/* Content links are underlined */
 div.homeContainer a {
     text-decoration: underline;
 }
