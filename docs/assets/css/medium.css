@@ -28753,6 +28753,11 @@ body.is-diagnosticsVisible .diagnostics {
 }
 
 div.homeContainer ul {
-    list-style: inside;
-    padding-bottom: 1em;
+  list-style: inside;
+  padding-bottom: 1em;
 }
+
+div.homeContainer a {
+    text-decoration: underline;
+}
+
