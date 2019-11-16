@@ -1,7 +1,5 @@
 ## Services
 
-At Diginity Leadership Coaching and Consulting, we offer the following services:
-
 * Leadership Coaching
 * Diversity & Inclusion Consulting
 * Interpersonal Dynamics and Diversity & Inclusion Training
