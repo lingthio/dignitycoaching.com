@@ -1,6 +1,6 @@
-# About Ling
+## About Ling
 
-Ling Thio is an organizational development consultant and leadership coach with 11 years experience as a coach, facilitator and educator, focusing on diversity, inclusion, and interpersonal skills. He is known for his strategic thinking, empathic listening, wisdom, and his candid and caring style of communication. He currently facilitates interpersonal dynamics classes at Stanford Graduate School of Business and UC Berkeley Haas School of Business.
+Ling Thio is an organizational development consultant and leadership coach with 11 years experience as a coach, facilitator and educator, focusing on diversity & inclusion, and interpersonal skills. He is known for his strategic thinking, empathic listening, wisdom, and his candid and caring style of communication. He currently facilitates interpersonal dynamics classes at Stanford (Graduate School of Business) and UC Berkeley (Haas School of Business).
 
 Ling has been trained at:
 
