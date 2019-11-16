@@ -12,4 +12,4 @@ Ling has been trained at:
 
 He holds an M.S. in Electrical Engineering and Computer Science and played key leadership roles in three successful Silicon Valley software start-ups as Lead Engineer, Software Architect and Co-founder.
 
-Ling was born in Indonesia, grew up in The Netherlands, has an unofficially adopted son from Côte d’Ivoire, and lives with his wife in Oakland, California.
+Ling was born in Indonesia, grew up in The Netherlands, lives with his wife in Oakland, California, and has an unofficially adopted son from Côte d’Ivoire.
