@@ -28752,9 +28752,9 @@ body.is-diagnosticsVisible .diagnostics {
   }
 }
 
-/* Page title font size varies with vieport width */
+/* Page title font size */
 div.metabar h1 {
-  font-size: 3vw;
+  font-size: 1.5em;
 }
 
 /* Content ULs show bullets */
